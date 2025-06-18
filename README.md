@@ -30,11 +30,8 @@ The dataset contains the following features:
 3. Label Encoding (for categorical data)
 4. Feature Scaling (where necessary)
 5. Model Building using various ML classifiers:
-   - Logistic Regression
    - Decision Tree
    - Random Forest
-   - Support Vector Machine (SVM)
-   - XGBoost (optional)
 6. Evaluation: Accuracy, Precision, Recall, F1 Score
 
 ---
@@ -43,11 +40,11 @@ The dataset contains the following features:
 
 | Metric       | Value     |
 |--------------|-----------|
-| Best Model   | Random Forest |
-| Accuracy     | 82%       |
-| Precision    | 79%       |
+| Best Model   | Decison Tree |
+| Accuracy     | 93%       |
+| Precision    | 91%       |
 | Recall       | 76%       |
-| F1 Score     | 77%       |
+| F1 Score     | 83%       |
 
 ---
 
